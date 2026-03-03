@@ -75,16 +75,16 @@ All commands are invoked as subcommands of `devkit`:
 
 ```bash
 # Greeting
-devkit greet Alice
+devkit greet nyxsky404
 
 # Inspect a file
 devkit fileinfo src/cli.ts
 
 # GitHub user info
-devkit github octocat
+devkit github nyxsky404
 
 # Current weather (requires OPENWEATHER_API_KEY)
-devkit weather "San Francisco"
+devkit weather "Pune"
 
 # Random quote and joke
 devkit quote
